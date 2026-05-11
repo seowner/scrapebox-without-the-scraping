@@ -12,7 +12,7 @@ Some new features you will also notice:
 
 ## How to Use
 
-Open ScrapeboxUrlUtility.exe in /dist folder.
+Download the latest release and open ScrapeboxUrlUtility.exe.
 
 ## Other Notes
 
